@@ -1,4 +1,4 @@
-nclude<stdio.h>
+#include<stdio.h>
 
 int main()
 
@@ -10,11 +10,11 @@ int main()
 
         
 
-            put(char); 
+          put(char); 
 	    
 	    //the above will write the string to stdout
                 
 
-                    return 0;
+          return 0;
 
           }
