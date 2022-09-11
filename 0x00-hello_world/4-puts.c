@@ -6,11 +6,11 @@ int main()
 
 		//my first c code
 
- 	  char msg[] = "Programming is like building a multilingual puzzle";
+ 	  char = "Programming is like building a multilingual puzzle";
 
         
 
-            puts(msg); 
+            put(char); 
 	    
 	    //the above will write the string to stdout
                 
