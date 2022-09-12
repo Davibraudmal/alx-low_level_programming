@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*this code uses puts instead of printf*/
+/**
+* main - Entry point
+* Description: 'the program's description
+* Return: Always 0 (Success)
+*/
 int main(void) /*fisrt code line*/
 {/*main code boby*/
 
