@@ -1,8 +1,7 @@
 #include <stdio.h>
-main()
-{ /*first c code*/
-	char str[50]
-		str = "Programming is like building a multilingual puzzle"
-	puts(str)
-		return (0);
+/*this code uses puts instead of printf*/
+int main(void)
+{
+	puts("Programming is like building a multilingual puzzle");
+	return (0);
 }
