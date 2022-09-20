@@ -8,8 +8,12 @@
 *return 0:
 */
 
-int main(void) /* this code print the last digit of a random number */
+int main(void) /*main: starts here*/
 {
+/*
+*Main: this code print the last digit of a random number
+* returns: 0
+*/
 
 	int n, last;
 
