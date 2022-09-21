@@ -9,8 +9,6 @@ int main(void)
 {
 	int i;
 
-	printf("The single digit numbers of base 10 are:\n");
-
 	for (i = 0; i <= 9; i++)
 
 	{
