@@ -11,7 +11,7 @@ int main(void)
 
 	printf("The single digit numbers of base 10 are:\n");
 
-	for (i = 1; i <= 10; i++)
+	for (i = 0; i <= 9; i++)
 
 	{
 
