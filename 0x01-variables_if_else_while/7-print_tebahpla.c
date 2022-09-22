@@ -11,8 +11,10 @@ int main(void) /* the code starts here */
 {
 	char c;
 
-	for (c = 'Z'; c >= 'a'; --c)
+	for (c = 'z'; c >= 'a'; c--)
 	putchar(c);
+
+	putchar('\n');
 
 	return (0);
 }
